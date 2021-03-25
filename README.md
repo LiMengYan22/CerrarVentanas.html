@@ -10,8 +10,8 @@ Función: ***"window.close"*** de html para cerrar automáticamente ventanas o p
 
 <hr>
 
-- input:
-- 
+-input:
+
 ```
 <input name="button" type="button" onclick="window.close();" value="Cerrar esta ventana" />
 ```

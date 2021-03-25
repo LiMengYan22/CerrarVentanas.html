@@ -13,5 +13,5 @@ Función: ***"window.close"*** de html para cerrar automáticamente ventanas o p
 -input:
 
 ```
-<input name="button" type="button" onclick="window.close();" value="Cerrar esta ventana" />
+<input name="button" type="button" onclick="window.close();" value="Cerrar Ventana">
 ```
